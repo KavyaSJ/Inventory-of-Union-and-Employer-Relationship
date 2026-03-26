@@ -6,12 +6,12 @@ This project analyzes collective agreements data from the e-Library Portal to un
 
 🎯 Objectives
 
-Clean and preprocess real-world employer and union relationship data
-Perform exploratory data analysis (EDA)
-Engineer meaningful features for machine learning
-Apply K-Means clustering to identify agreement patterns
-Evaluate clusters using Silhouette Score
-Visualize clusters using Principal Component Analysis (PCA)
+- Clean and preprocess real-world employer and union relationship data
+- Perform exploratory data analysis (EDA)
+- Engineer meaningful features for machine learning
+- Apply K-Means clustering to identify agreement patterns
+- Evaluate clusters using Silhouette Score
+- Visualize clusters using Principal Component Analysis (PCA)
 
 🛠️ Tools & Technologies
 
